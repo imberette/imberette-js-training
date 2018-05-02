@@ -1,1 +1,3 @@
-export default function () {}
+export default function (number) {
+  return (number % 2) === 0
+}
